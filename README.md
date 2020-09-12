@@ -1,5 +1,5 @@
 # myFirst_Student_Information_System
-This is my first Java Program
+This was my first Java Program
 
 This Program is used to manage student's data.
 This program was created using Java language in Netbeans
